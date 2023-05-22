@@ -15,7 +15,7 @@ from time import sleep
 
 MQTT_TOPIC = 'training/device/disease'
 MQTT_PATH = "training/device/binaryimg"
-MQTT_HOST = 'mqtt.beia-telemetrie.ro'
+MQTT_HOST = '********'
 
 
 # Load the model
